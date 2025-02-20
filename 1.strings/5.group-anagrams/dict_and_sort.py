@@ -2,6 +2,8 @@
 from typing import List
 from collections import defaultdict
 
+# TODO : 팀소트 정렬에 대해 알아보기
+
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
